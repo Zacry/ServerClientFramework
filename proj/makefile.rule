@@ -1,3 +1,0 @@
-CC = gcc
-CFLAGS = -Wall -g -rdynamic
-LIB = -lpthread -lrt
